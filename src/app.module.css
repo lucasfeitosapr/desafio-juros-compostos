@@ -1,0 +1,25 @@
+.boxes {
+    display: flex;
+    flex-wrap: wrap;
+    
+    /* padding: 15px; */
+}
+
+.inputs {
+    width: 20%;
+    margin: 10px
+}
+
+.break {
+    flex-basis: 100%;
+    height: 0;
+  }
+
+.cards {
+    margin: 10px;
+    border: 1px solid #000;
+    float: right;
+    width: 15%;
+    border-radius: 10px;
+    text-align: center;
+}
